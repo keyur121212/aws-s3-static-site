@@ -21,8 +21,7 @@ This is a simple static website hosted using **Amazon S3**, as part of my AWS So
 - Using IAM and S3 bucket policies
 - Hosting a real website without any server
 
-## 📸 Screenshot
-_Add a screenshot of your site here later (optional)_
+
 
 ---
 
